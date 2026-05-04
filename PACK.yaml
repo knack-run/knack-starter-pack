@@ -1,6 +1,6 @@
 id: knack-starter-pack
 name: Knack Starter Pack
-version: 0.1.0
+version: 1.0.0
 description: Turn a messy idea or brief into structured next steps in five minutes, and see how a Knack pack is shaped.
 author: Knack
 licence: mit
@@ -8,9 +8,9 @@ claude_code_min_version: "1.0.0"
 contents:
   skills:
     - id: idea-clarifier
-      version: 0.1.0
+      version: 1.0.0
     - id: first-skill-template
-      version: 0.1.0
+      version: 1.0.0
   commands: []
   agents: []
   mcp_servers: []
