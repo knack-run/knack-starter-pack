@@ -4,6 +4,8 @@
 
 > Free, MIT-licensed Claude Code skills. Turn a messy idea or brief into structured next steps in five minutes, and see how a Knack pack is shaped.
 
+![idea-clarifier turning a rough product idea into a clear audience, pain point, offer framing, and ranked first-action plan](assets/idea-clarifier-demo.gif)
+
 ```bash
 git clone https://github.com/knack-run/knack-starter-pack.git && cd knack-starter-pack && ./install.sh
 ```
@@ -49,6 +51,8 @@ On Windows, double-click `install.cmd` from File Explorer for the easiest path. 
 
 The installer copies the two skills into your Claude Code config directory (`~/.claude/` by default; override with `CLAUDE_CONFIG_DIR`). No licence key, no prompts, no telemetry.
 
+If you'd rather pin a specific version, grab the source zip from [Releases](../../releases).
+
 If you don't have Claude Code yet: it's [Anthropic's official CLI for Claude](https://claude.com/claude-code), open-source and free to use (you bring your own API key).
 
 ## Try it
@@ -70,9 +74,13 @@ This is the free starter pack. The paid Knack catalogue at [knack.run/packs](htt
 
 **In beta, looking for testers:** [Indie Hacker Launch](https://knack.run/packs/indie-hacker-launch) — the launch-week system for solo founders shipping their second-to-fifth product. Sign up via the page in exchange for free pack access and blunt feedback.
 
+## Star this repo
+
+If the pack helps you, a star helps others find it.
+
 ## Contributing
 
-Questions, suggestions, or new-pack proposals: `hello@knack.run`.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Larger questions and new-pack proposals: `hello@knack.run`.
 
 ## About Knack
 
