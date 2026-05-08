@@ -1,8 +1,33 @@
 # Knack Starter Pack
 
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENCE.md)
+
 > Free, MIT-licensed Claude Code skills. Turn a messy idea or brief into structured next steps in five minutes, and see how a Knack pack is shaped.
 
+```bash
+git clone https://github.com/knack-run/knack-starter-pack.git && cd knack-starter-pack && ./install.sh
+```
+
 Two skills. No licence key. No telemetry. The fastest way to see what a [Knack](https://knack.run) pack actually does.
+
+## Who this is for
+
+You use, or are starting to use, [Claude Code](https://claude.com/claude-code), and you want to:
+
+- Take a rough product idea, consulting brief, or project sketch and get a clear audience, a pain point in their words, an offer framing, and a ranked first-action plan.
+- See how a well-shaped Claude Code skill is structured, so you can write your own.
+- Try the Knack format for free before considering a paid pack.
+
+Solo operators, freelance consultants, fractional execs, indie hackers, builders.
+
+## What this does not include
+
+This is a starter pack, not a paid catalogue. So it deliberately does not:
+
+- Run an end-to-end workflow for a specific operator role (proposals, SoWs, launch-week ops). For that, see the [paid catalogue](https://knack.run/packs/).
+- Include MCP server configurations, agents, or slash-command shortcuts. Two skills only.
+- Phone home, validate licences, or capture data. Everything runs locally on your machine.
+- Replace your judgement. The skills demand specifics before drafting; if you give them generic answers, they push back.
 
 ## What's inside
 
@@ -39,11 +64,15 @@ Once installed, restart Claude Code and try:
 
 ## Going deeper
 
-This is the free starter pack. The paid Knack catalogue at [knack.run/packs](https://knack.run/packs/) goes deep on specific operator jobs (consulting ops first, indie-hacker launches next). Each is lifetime-licensed: one-time payment, no subscription, free updates for life.
+This is the free starter pack. The paid Knack catalogue at [knack.run/packs](https://knack.run/packs/) goes deep on specific operator jobs. Each is lifetime-licensed: one-time payment, no subscription, free updates for life.
+
+**Shipped:** [Solo Consultant Ops](https://knack.run/packs/solo-consultant-ops) — the 7-phase engagement system for independent consultants and fractional execs.
+
+**In beta, looking for testers:** [Indie Hacker Launch](https://knack.run/packs/indie-hacker-launch) — the launch-week system for solo founders shipping their second-to-fifth product. Sign up via the page in exchange for free pack access and blunt feedback.
 
 ## Contributing
 
-Issues and pull requests welcome. The canonical source for this pack lives in the Knack monorepo at [knack-run/knack](https://github.com/knack-run/knack); changes accepted here are propagated back. For larger contributions or new-pack proposals, drop a line to `hello@knack.run`.
+Questions, suggestions, or new-pack proposals: `hello@knack.run`.
 
 ## About Knack
 
@@ -51,7 +80,7 @@ Curated [Claude Code](https://claude.com/claude-code) skill packs. Lifetime lice
 
 - Site: [knack.run](https://knack.run)
 - All packs: [knack.run/packs](https://knack.run/packs/)
-- X: [@Knack_run](https://x.com/Knack_run)
+- X: [@knack_run](https://x.com/knack_run)
 - LinkedIn: [knackrun](https://www.linkedin.com/company/knackrun)
 - GitHub: [knack-run](https://github.com/knack-run)
 
